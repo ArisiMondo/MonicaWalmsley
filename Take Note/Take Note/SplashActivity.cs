@@ -10,9 +10,9 @@ namespace Take_Note
     {
         protected override void OnCreate(Bundle bundle)
         {
-            base.OnCreate(bundle);
-            Thread.Sleep(2000);
-            StartActivity(typeof(MainActivity));
+            base.OnCreate(bundle); //-----------------Declares as actions on opening of app
+            Thread.Sleep(1000); //--------------------Pauses thread to show splash screen
+            StartActivity(typeof(MainActivity)); //---Opens the main app
         }
     }
 }

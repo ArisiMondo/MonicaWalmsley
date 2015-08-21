@@ -22,3 +22,27 @@ C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\drawable\not
 C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\layout\viewsearch.xml
 C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\values\styles.xml
 C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\drawable\splash.png
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\bin\Debug\Take Note.dll
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\bin\Debug\Take Note.pdb
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\bin\Debug\Take_Note.Take_Note.apk
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\bin\Debug\Take_Note.Take_Note-Signed.apk
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\Take Note.csprojResolveAssemblyReference.cache
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\Take Note.dll
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\Take Note.pdb
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\android\bin\Take_Note.Take_Note.apk
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\layout\note.xml
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\layout\customrow.xml
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\layout\viewsearch.xml
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\layout\main.xml
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\values\strings.xml
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\drawable\appname.png
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\drawable\create.png
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\drawable\icon.png
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\drawable\note.png
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\drawable\remove.png
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\drawable\search.png
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\drawable\update.png
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\values\styles.xml
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\res\drawable\splash.png
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\R.cs.flag
+C:\Users\monic\Source\Repos\MonicaWalmsley\Take Note\Take Note\obj\Debug\uploadflags.txt

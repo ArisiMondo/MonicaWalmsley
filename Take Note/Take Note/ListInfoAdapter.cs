@@ -16,19 +16,23 @@ namespace Take_Note
         {
             this.context = context;
             this.items = items;
-        }
+        } //-------------------Gets values
+
         public override long GetItemId(int position)
         {
             return position;
         }
+
         public override ListInfo this[int position]
         {
             get { return items[position]; }
         }
+
         public override int Count
         {
            get { return items.Count; }
         }
+
         public override View GetView(int position, View convertView, ViewGroup parent)
         {
             var item = items[position];
@@ -42,7 +46,7 @@ namespace Take_Note
             view.FindViewById<TextView>(Resource.Id._textViewDate2).Text = item.Dt;
 
             return view;
-        }
+        } //---Passes note list to list view
 
     }
 }
