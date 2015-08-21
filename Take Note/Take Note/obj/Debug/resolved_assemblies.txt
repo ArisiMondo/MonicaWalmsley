@@ -1,0 +1,7 @@
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\assemblies\Take Note.dll
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\assemblies\Mono.Android.dll
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\assemblies\mscorlib.dll
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\assemblies\System.Core.dll
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\assemblies\System.dll
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\assemblies\System.Xml.dll
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\assemblies\System.Xml.Linq.dll

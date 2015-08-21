@@ -1,0 +1,24 @@
+Take_Note.ListInfoAdapter, Take Note;md501b30a9d6e4171ad4889f170087e065a.ListInfoAdapter
+Take_Note.ListInfoAdapter, Take Note, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md501b30a9d6e4171ad4889f170087e065a.ListInfoAdapter
+Take_Note.ListInfoAdapter;md501b30a9d6e4171ad4889f170087e065a.ListInfoAdapter
+take_note.ListInfoAdapter;md501b30a9d6e4171ad4889f170087e065a.ListInfoAdapter
+Take_Note.ListSearch, Take Note;md501b30a9d6e4171ad4889f170087e065a.ListSearch
+Take_Note.ListSearch, Take Note, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md501b30a9d6e4171ad4889f170087e065a.ListSearch
+Take_Note.ListSearch;md501b30a9d6e4171ad4889f170087e065a.ListSearch
+take_note.ListSearch;md501b30a9d6e4171ad4889f170087e065a.ListSearch
+Take_Note.MainActivity, Take Note;md501b30a9d6e4171ad4889f170087e065a.MainActivity
+Take_Note.MainActivity, Take Note, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md501b30a9d6e4171ad4889f170087e065a.MainActivity
+Take_Note.MainActivity;md501b30a9d6e4171ad4889f170087e065a.MainActivity
+take_note.MainActivity;md501b30a9d6e4171ad4889f170087e065a.MainActivity
+Take_Note.NoteCreate, Take Note;md501b30a9d6e4171ad4889f170087e065a.NoteCreate
+Take_Note.NoteCreate, Take Note, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md501b30a9d6e4171ad4889f170087e065a.NoteCreate
+Take_Note.NoteCreate;md501b30a9d6e4171ad4889f170087e065a.NoteCreate
+take_note.NoteCreate;md501b30a9d6e4171ad4889f170087e065a.NoteCreate
+Take_Note.NoteEdit, Take Note;md501b30a9d6e4171ad4889f170087e065a.NoteEdit
+Take_Note.NoteEdit, Take Note, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md501b30a9d6e4171ad4889f170087e065a.NoteEdit
+Take_Note.NoteEdit;md501b30a9d6e4171ad4889f170087e065a.NoteEdit
+take_note.NoteEdit;md501b30a9d6e4171ad4889f170087e065a.NoteEdit
+Take_Note.SplashActivity, Take Note;md501b30a9d6e4171ad4889f170087e065a.SplashActivity
+Take_Note.SplashActivity, Take Note, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md501b30a9d6e4171ad4889f170087e065a.SplashActivity
+Take_Note.SplashActivity;md501b30a9d6e4171ad4889f170087e065a.SplashActivity
+take_note.SplashActivity;md501b30a9d6e4171ad4889f170087e065a.SplashActivity

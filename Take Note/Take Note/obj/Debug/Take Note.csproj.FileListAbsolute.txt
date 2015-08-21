@@ -1,0 +1,24 @@
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\bin\Debug\Take Note.dll
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\bin\Debug\Take Note.pdb
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\bin\Debug\Take_Note.Take_Note.apk
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\bin\Debug\Take_Note.Take_Note-Signed.apk
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\Take Note.dll
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\Take Note.pdb
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\android\bin\Take_Note.Take_Note.apk
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\layout\note.xml
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\layout\customrow.xml
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\layout\main.xml
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\values\strings.xml
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\R.cs.flag
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\uploadflags.txt
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\Take Note.csprojResolveAssemblyReference.cache
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\drawable\icon.png
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\drawable\update.png
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\drawable\create.png
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\drawable\search.png
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\drawable\remove.png
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\drawable\appname.png
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\drawable\note.png
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\layout\viewsearch.xml
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\values\styles.xml
+C:\STUDIES\Assignment 5 - NotePad\Take Note\Take Note\obj\Debug\res\drawable\splash.png

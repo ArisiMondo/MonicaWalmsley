@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/_editTextTitle"
+        android:textSize="30dp"
+        android:layout_centerHorizontal="true"
+        android:typeface="sans"
+        android:text=""
+        android:hint="@string/titleHint" />
+    <TextView
+        android:text="Date"
+        android:textSize="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/_editTextTitle"
+        android:id="@+id/_textViewDate1" />
+    <Button
+        android:id="@+id/_buttonSave"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/update"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:id="@+id/_buttonDelete"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/remove"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true" />
+    <EditText
+        android:inputType="textMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/_editTextBody"
+        android:text=""
+        android:textSize="20dp"
+        android:layout_below="@id/_textViewDate1"
+        android:layout_above="@id/_buttonSave"
+        android:layout_centerInParent="true"
+        android:scrollbars="vertical"
+        android:gravity="top"
+        android:hint="@string/bodyHint" />
+</RelativeLayout>
